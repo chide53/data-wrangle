@@ -1,2 +1,2 @@
-# tweet-data-wrangle
+# data-wrangle
 gather,assess and clean the data
